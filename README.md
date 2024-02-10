@@ -105,8 +105,7 @@ Self-motivated and inspiring a java backend developer with 1200+ hours of hands-
 
 
 
-![Abhishek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhiVerma44&bg_color=000000&color=9e4c98&line=9e4c98&point=e6c7c7&area=true&hide_border=true)
-
+![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiVerma44&theme=dracula)
 <p align="center">
   <a  href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=abhiVerma44&column=7&theme=onedark" />

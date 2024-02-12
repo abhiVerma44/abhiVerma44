@@ -12,9 +12,7 @@ Self-motivated and inspiring a java backend developer with 1200+ hours of hands-
 
 - 👨‍💻 All of my projects are available at
 [**Portfolio**](https://abhiVerma44.github.io/Abhishek-kumar.github.io/)
-- 🌱 I’m currently learning Java Backend at Masai School.
-- 🎓  I'm currently studying java backend using springboot and databases.
-- 👯 I’m looking to collaborate on LinkedIn & GitHub
+- 🌱 I’m currently learning Node.js, Express.js, and React.
 - 💬 Ask me about **JAVA** 
 - 📫 How to reach me **abhishek.verma.hi@gmail.com**
 - 📄 Know about my experiences,

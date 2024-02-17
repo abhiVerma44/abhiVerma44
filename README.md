@@ -16,7 +16,7 @@ Self-motivated and inspiring a java backend developer with 1200+ hours of hands-
 - 💬 Ask me about **JAVA** 
 - 📫 How to reach me **abhishek.verma.hi@gmail.com**
 - 📄 Know about my experiences,
-[**Resume**](https://drive.google.com/file/d/1_fFvk40T5lAm4Hq41SDVVqVRPkQgO1Hu/view?usp=sharing)
+[**Resume**](https://drive.google.com/file/d/1NY1fflAd7DM8bKW73BBIGoImpPPlpYFc/view)
 
 
 <h3 align="left">Connect with me:</h3>

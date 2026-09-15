@@ -16,7 +16,7 @@ Self-motivated and inspiring a java backend developer with 1200+ hours of hands-
 - 💬 Ask me about **JAVA** 
 - 📫 How to reach me **abhishek.verma.hi@gmail.com**
 - 📄 Know about my experiences,
-[**Resume**](https://drive.google.com/file/d/1NY1fflAd7DM8bKW73BBIGoImpPPlpYFc/view)
+[**Resume**](https://drive.google.com/file/d/1oQ44Y_hTNfy_EWlWCXmFbkbN8JLq5IHB/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -92,24 +92,8 @@ Self-motivated and inspiring a java backend developer with 1200+ hours of hands-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiVerma44&theme=dark&locale=en&layout=compact" alt="abhiVerma44" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiVerma44&theme=dark" alt="abhiVerma44" /></p>
-<br/>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiVerma44&show_icons=true&theme=dark" alt="abhiVerma44" /></p>
 <br/>
 
-
-
-![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiVerma44&theme=dracula)
-<p align="center">
-  <a  href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhiVerma44&column=7&theme=onedark" />
-  </a>
-</p>
-
-<br/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhiVerma44&label=Profile%20views&color=0e75b6&style=flat" alt="abhiVerma44" /> </p>
